@@ -3,7 +3,7 @@ GREEN='\033[1;32m'
 BLUE='\033[0;34m'
 while : 
 do
-printf "${GREEN}︎Akame Supremacy -_ Sistema de reinício automático ligado! Iniciando bot...\n"
+printf "${GREEN}︎Akame v8.5 Bronxys -_ Sistema de reinício automático ligado! Iniciando bot...\n"
 if [ "$1" = "sim" ]; then
 node connect.js sim
 elif [ "$1" = "não" ]; then

@@ -171,7 +171,7 @@ exports.playResult = (data) => {
 *📁 Formato:* Mp3
 *👀 Visualizações:* ${data.resultado[0].views}
 *🤖 Bot: _AKAME SUPREME_*
-*🥼 Criador: _YURI MODZ_*
+*🥼 Criador:BRONXYS*
 *🖇 Link:* ${data.resultado[0].url}`
 }
 
@@ -190,7 +190,7 @@ exports.playVideo = (data) => {
 *📁 Formato:* Mp3
 *👀 Visualizações:* ${data.resultado[0].views}
 *🤖 Bot: _AKAME SUPREME_*
-*🥼 Criador: _YURI MODZ_*
+*🥼 Criador:BRONXYS*
 *🖇 Link:* ${data.resultado[0].url}`
 } 
 
@@ -205,7 +205,7 @@ exports.playVideo2 = (data) => {
 *📁 Formato:* Mp3
 *👀 Visualizações:* ${data.resultado[0].views}
 *🤖 Bot: _AKAME SUPREME_*
-*🥼 Criador: _YURI MODZ_*
+*🥼 Criador:BRONXYS*
 *🖇 Link:* ${data.resultado[0].url}`
 } 
 
@@ -220,7 +220,7 @@ exports.playDocumentResult = (data) => {
 *📁 Formato:* Mp3
 *👀 Visualizações:* ${data.resultado[0].views}
 *🤖 Bot: _AKAME SUPREME_*
-*🥼 Criador: _YURI MODZ_*
+*🥼 Criador:BRONXYS*
 *🖇 Link:* ${data.resultado[0].url}`
 }
 
